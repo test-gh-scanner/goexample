@@ -1,5 +1,5 @@
 name: "goexample"
-description: "goexample"
+description: "goexampleq"
 
 runs:
   using: composite
