@@ -4,5 +4,5 @@ description: "goexample"
 runs:
   using: composite
   steps:
-  - run: go run ./../goexample.go
+  - run: ls
     shell: bash
