@@ -21,4 +21,4 @@ jobs:
       with:
         go-version: 1.19
     - name: Go-example
-      uses: csourabhbanka/goexample/actions@v1
+      uses: csourabhbanka/goexample/actions@v2
