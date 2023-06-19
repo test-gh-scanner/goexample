@@ -4,5 +4,5 @@ description: "goexampleqq"
 runs:
   using: composite
   steps:
-  - run: echo "Hello world"
+  - run: go version
     shell: bash
