@@ -21,6 +21,6 @@ jobs:
       with:
         go-version: 1.19
     - name: Go-example
-      uses: csourabhbanka/goexample/actions@v4
+      uses: csourabhbanka/goexample/actions@v6
     - name: echo-hello
       run: echo "hello"
